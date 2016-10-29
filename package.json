@@ -40,7 +40,7 @@
     "bin-man": "^0.2.0",
     "bin-pwd": "^0.0.0",
     "davius": "^0.0.1",
-    "dhcpjs": "^0.5.0",
+    "dhcpjs": "^0.5.1",
     "fs-extra": "^0.30.0",
     "genext2fs": "^1.4.1-0",
     "ifconfig": "NodeOS/ifconfig",
